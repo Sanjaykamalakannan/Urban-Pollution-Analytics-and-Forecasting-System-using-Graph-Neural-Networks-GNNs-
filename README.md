@@ -31,7 +31,7 @@ Algorithms: Label Propagation, PageRank
 
 Data Analysis: Pandas, NumPy, Matplotlib, NetworkX
 
-Visualization: Power BI / Streamlit / Plotly
+Visualization: Power BI 
 
 Languages: Python
 
